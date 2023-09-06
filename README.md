@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meghan-borg
-- 👀 I’m interested in all things research
+- 👀 I'm interested in psychological research, improving my programming skills, visualizing data using cool plots, and making life more efficient (and fun)
 - 🌱 I’m currently learning SQL, Python, PowerBI, and Git
 - 📫 How to reach me: meghanborg1@gmail.com | www.linkedin.com/in/meghanborg
 
